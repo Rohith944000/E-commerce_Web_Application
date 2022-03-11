@@ -1,6 +1,6 @@
 # E-commerce_Web_Application
 
-[pic.txt](https://github.com/Rohith944000/E-commerce_Web_Application/files/8227941/pic.txt) <br>
+![E-shop](https://user-images.githubusercontent.com/93736142/157778208-39a6f811-2d8d-4c87-9191-ba3cceaacf9c.gif)
 
 # Features
 1. Regsiter for new user
