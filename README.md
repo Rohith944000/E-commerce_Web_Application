@@ -12,6 +12,6 @@
 7. Update the quantity of the products in shopping cart
 8. Checkout
 # Technologies
-Front-End - HTML,CSS Flexbox Layout
-Back-End - JAVA, JSP
-DataBase - Mysql database
+1. Front-End - HTML,CSS Flexbox Layout
+2. Back-End - JAVA, JSP
+3. DataBase - Mysql database
